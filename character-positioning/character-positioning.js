@@ -17,3 +17,4 @@ function countLetters(string) {
 }
 
 console.log(countLetters("LIGHT HOUSE"));
+
